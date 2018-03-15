@@ -4,6 +4,12 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 import static java.util.stream.Collectors.*;
 
+/**
+ * java.util.function 的應用風格
+ * 
+ * @author jackson
+ *
+ */
 public class Main5 {
 	static List<Integer> numbers1 = Arrays.asList(1, 2, 3);
 	

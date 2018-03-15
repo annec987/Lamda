@@ -4,6 +4,12 @@ import java.util.List;
 import java.util.Objects;
 import static java.util.stream.Collectors.*;
 
+/**
+ * Java Lamda表達式
+ * 
+ * @author jackson
+ *
+ */
 public class Main3 {
 
 	public static void main(String[] args) {
