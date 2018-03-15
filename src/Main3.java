@@ -5,7 +5,10 @@ import java.util.Objects;
 import static java.util.stream.Collectors.*;
 
 /**
- * Java Lamda表達式
+ * Java Lamda表達式 
+ * 語法
+ * 方法引用
+ * 靜態引用
  * 
  * @author jackson
  *
